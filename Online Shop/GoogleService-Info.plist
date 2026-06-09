@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCLIx5_6i_l6wmJX7PvOp--r74O8lu9kL8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>932837911906</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>test-lernSwift1.Online-Shop</string>
+	<key>PROJECT_ID</key>
+	<string>online-shop-ba9a6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>online-shop-ba9a6.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:932837911906:ios:01cd2bc70fd9ae8c77503b</string>
+</dict>
+</plist>
